@@ -1,0 +1,35 @@
+sudo apt-get install hardinfo
+
+cdo
+ferret, miniconda
+virenv,py11a
+
+sudo apt install chrome-gnome-shell
+sudo apt install gfortran
+sudo apt install netcdf-bin
+sudo apt install m4
+sudo apt install hdfs-cli
+sudo apt  install octave
+sudo apt install texstudio
+sudo apt install nco
+sudo apt  install gedit
+sudo apt install cdo
+sudo apt install gmt
+sudo apt install vlc
+flatpak install flathub org.kde.kdenlive
+sudo apt install flatpak
+sudo apt install gnome-software-plugin-flatpak
+sudo apt-get install ttf-mscorefonts-installer
+sudo apt install texmaker
+sudo apt install winetricks
+sudo apt install npm
+sudo apt install latexdiff
+sudo add-apt-repository -y ppa:graphics-drivers/ppa
+sudo apt install tidy 
+sudo apt install python3.9 python3.9-venv python3.9-dev
+NOTE: the pycwt module, ar1 condition is changed, look for copy in /pycwt
+      /helpers.py
+source it when needed from the (copy)
+sudo apt install hplip hplip-gui
+sudo snap install vale
+sudo apt-get install fonts-noto-ui-extra fonts-noto-extra
